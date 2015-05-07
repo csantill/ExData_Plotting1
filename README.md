@@ -1,5 +1,10 @@
 ## Introduction
 
+
+# Instructions
+Mylib.R contains the script that is responsible for download the data and unzip it.
+It also generates the required data subset used by plot1.R, plot2.R, plot3.R and plot4.R
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
